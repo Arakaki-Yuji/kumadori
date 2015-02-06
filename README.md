@@ -1,6 +1,8 @@
 # Kumadori
 
-TODO: Write a gem description
+This is simple decorator for Ruby.
+
+Kumadori mean make-up for Japanese Kabuki.
 
 ## Installation
 
